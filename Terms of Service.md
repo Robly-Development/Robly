@@ -1,5 +1,3 @@
-Last modified 7th January 2023.
-
 # Terms of Service of Robly
 Robly team ("us", "we" or "our") owns and operates Robly (the "Bot" or "Service").<br>Please read these Terms of Service (the "Terms") before using the Service.
 
@@ -22,3 +20,5 @@ For any concerns about this Policy or the Bot's operation, please use the follow
 Any of this data, besides the **Discord User ID** (which is kept for the solely reason to prevent exploits),<br>can be requested to be removed through the provided email contact or in the Support Server of Robly: https://discord.gg/UdKSrxBXyd.<br>By doing this, all your data will be removed from the database.<br>If you want to also get this information removed from database backups, please include it in the request.<br>It may take up to 7 days for this information to get removed.
 
 ###### This Terms of Service may be updated from time to time.<br>Any changes made will be previously notified through the Bot and/or the Official Discord Server of Robly.
+
+Last modified 7th January 2023.
