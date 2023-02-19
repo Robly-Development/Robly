@@ -1,7 +1,6 @@
 # Terms of Service of Robly
-Robly team ("us", "we" or "our") owns and operates Robly (the "Bot" or "Service").<br>Please read these Terms of Service (the "Terms") before using the Service.
-
-By using the Service, you agree to these Terms. If you disagree with any part of the terms then you do not have permission to use the Service.
+Robly team ("us", "we" or "our") owns and operates Robly (the "Bot" or "Service").<br>Please read these **Terms of Service** (the "Terms") before using the Service.
+<br>By using the Service, you agree to these **Terms**. If you disagree with any part of the terms then you do not have permission to use the Service.
 
 ### By using the Service, you agree that:
 - You will not violate these Terms, the Discord Terms of Service (https://discord.com/terms)<br>or the Discord Guidelines (https://discord.com/guidelines) while using the Service.
