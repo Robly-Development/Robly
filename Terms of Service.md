@@ -3,7 +3,7 @@ Robly team ("us", "we" or "our") owns and operates Robly (the "Bot" or "Service"
 <br>By using the Service, you agree to these **Terms**. If you disagree with any part of the terms then you do not have permission to use the Service.
 
 ### By using the Service, you agree that:
-- You will not violate these Terms, the Discord Terms of Service<br>or the Discord Guidelines while using the Service.
+- You will not violate these Terms, the Discord Terms of Service or the Discord Guidelines while using the Service.
 - You will not use the Service for any illegal and/or malicious behavior.
 - You will not attempt to purposely interrupt the operation of the Service.
 - You will not trade or sell in-game currencies for anything outside of the Bot.
